@@ -14,7 +14,7 @@ Hello, I am Essie. I am a software developer. Currently, I am based in Phoenix, 
 🔭 &nbsp;I'm currently working on **Natsuki After Story**  
 🌱 &nbsp;I'm currently learning **Python**  
 😄 &nbsp;Pronouns: **she/her**  
-⚡ &nbsp;Fun fact: **I run the coding club at my school**
+⚡ &nbsp;Fun fact:
 
 ### 🛠️ Tech Stack
 
