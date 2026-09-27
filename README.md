@@ -12,9 +12,9 @@
 
 Hello, I am Essie. I am a software developer. Currently, I am based in Phoenix, AZ. As of right now, I am a student. You can see my work here on Github.
 
-🔭 &nbsp;I'm currently working on **Natsuki After Story**  
-🌱 &nbsp;I'm currently learning **Python**  
-😄 &nbsp;Pronouns: **she/her**
+ &nbsp;I'm currently working on **Natsuki After Story**  
+ &nbsp;I'm currently learning **Python**  
+ &nbsp;Pronouns: **she/her**
 
 ### 🛠️ Tech Stack
 
