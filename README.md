@@ -76,6 +76,3 @@ Hello, I am Essie. I am a software developer. Currently, I am based in Phoenix, 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/hey-essie">hey-essie</a></i></p>
